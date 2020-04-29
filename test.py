@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 import traceback
 
-from weiqing.writelog.write_log import WriteLog
-from weiqing.writelog.write_log import mylog
-from weiqing.writelog import write_log_conf
+from feijiang.writelog.write_log import WriteLog
+from feijiang.writelog.write_log import mylog
+from feijiang.writelog import write_log_conf
 
 # 以下语句必须放在顶级
 logpath = "/Users/bach.liu/mylab/weiqing/debug.log"
